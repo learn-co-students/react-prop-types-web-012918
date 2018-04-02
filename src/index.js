@@ -31,10 +31,3 @@ Order.propTypes = {
     orderedAt: PropTypes.number.isRequired
   }).isRequired
 };
-
-// ReactDOM.render(
-//   <Order
-//     name="Millennium Falcon"
-//   />,
-//   document.getElementById('global')
-// );
